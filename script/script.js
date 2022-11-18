@@ -32,7 +32,7 @@ const array = [
     id: 0,
     name: 'Tonic',
     description:
-      'A daily selection of privately personalized reads; no accounts or sign-ups required',
+      'A daily selection of privately personalized reads; no accounts or sign-ups required'
     featuredimage: './public/Tonic_Project.png',
     technologies: ['html', 'css', 'javascript'],
     linkToLiveVersion: 'https://houdamzari.github.io/Portfolio-Website/',
@@ -52,7 +52,7 @@ const array = [
     id: 2,
     name: 'Tonic',
     description:
-      'A daily selection of privately personalized reads; no accounts or sign-ups required',
+      'A daily selection of privately personalized reads; no accounts or sign-ups required",
     featuredimage: './public/Tonic_2.png',
     technologies: ['html', 'css', 'javascript'],
     linkToLiveVersion: 'https://houdamzari.github.io/Portfolio-Website/',
